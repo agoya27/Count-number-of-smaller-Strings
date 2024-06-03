@@ -1,9 +1,3 @@
-/*
-Name: Anurag Goyal
-ID  : 1096870
-Date: March 13, 2023
-Assignment Number: 3
-*/
 
 #include<stdio.h>
 #include<stdlib.h>
